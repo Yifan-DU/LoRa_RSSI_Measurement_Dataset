@@ -1,7 +1,6 @@
 # LoRa_RSSI_Measurement_Dataset
-  Measurement Dataset of RSSI for LoRa devices (Dragino Mode with LoRa shield)
 
-Measurement Dataset (Dragino Mode and Libelium Mode) in: 
+Measurement Dataset of RSSI for LoRa devices (Dragino Mode with LoRa shield):
 
 1.Line of sight on ground:	Ground_LoS/
 2.Non-line of sight on ground:	Ground_NLoS/
