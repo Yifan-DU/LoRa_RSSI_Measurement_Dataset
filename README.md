@@ -8,4 +8,4 @@ Measurement Dataset of RSSI for LoRa devices (Dragino Mode with LoRa shield):
 
 3.Non-line of sight on underground:	Underground_NLoS/
 
-*All data files are represented by name with format “Device-SpreadingFactor-Distance-TxPower-Bandwidth.txt”
+**All data files are represented by name with format “Device-SpreadingFactor-Distance-TxPower-Bandwidth.txt”**
